@@ -2,17 +2,17 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-1. [x] Contains Duplicate (5/18)
-2. [x] Valid Anagram (5/18)
-3. [x] Two Sum (5/18)
+1. [x] Contains Duplicate (5/18/25)
+2. [x] Valid Anagram (5/18/25)
+3. [x] Two Sum (5/18/25)
 4. [ ] Group Anagrams   	
-5. [x] Top K Frequent Elements (5/19)
+5. [x] Top K Frequent Elements (5/19/25)
 6. [ ] Encode and Decode Strings   	
-7. [x] Product of Array Except Self (5/19)   	
-8. [x] Valid Sudoku (5/19)
-9. [ ] Longest Consecutive Sequence   	
-10. [ ] Valid Palindrome   	
-11. [ ] Two Sum II Input Array Is Sorted   	
+7. [x] Product of Array Except Self (5/19/25)   	
+8. [x] Valid Sudoku (5/19/25)
+9. [x] Longest Consecutive Sequence (5/19/25)
+10. [x] Valid Palindrome (5/19/25)
+11. [x] Two Sum II Input Array Is Sorted (5/19/25)
 12. [ ] 3Sum   	
 13. [ ] Container With Most Water   	
 14. [ ] Trapping Rain Water   	

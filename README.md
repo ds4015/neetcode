@@ -8,8 +8,8 @@ Dallas Scott - Neetcode Solutions in C#
 4. [ ] Group Anagrams   	
 5. [x] Top K Frequent Elements (5/19)
 6. [ ] Encode and Decode Strings   	
-7. [ ] Product of Array Except Self (5/19)   	
-8. [ ] Valid Sudoku (5/19)
+7. [x] Product of Array Except Self (5/19)   	
+8. [x] Valid Sudoku (5/19)
 9. [ ] Longest Consecutive Sequence   	
 10. [ ] Valid Palindrome   	
 11. [ ] Two Sum II Input Array Is Sorted   	

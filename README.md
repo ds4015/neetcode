@@ -2,26 +2,30 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
+## Arrays and Hashing
 1. [x] Contains Duplicate (5/18/25)
 2. [x] Valid Anagram (5/18/25)
 3. [x] Two Sum (5/18/25)
-4. [ ] Group Anagrams   	
+4. [x] Group Anagrams (5/20/25)
 5. [x] Top K Frequent Elements (5/19/25)
-6. [ ] Encode and Decode Strings   	
+6. [x] Encode and Decode Strings (5/20/25)   	
 7. [x] Product of Array Except Self (5/19/25)   	
 8. [x] Valid Sudoku (5/19/25)
 9. [x] Longest Consecutive Sequence (5/19/25)
+## Two Pointers
 10. [x] Valid Palindrome (5/19/25)
 11. [x] Two Sum II Input Array Is Sorted (5/19/25)
 12. [ ] 3Sum   	
 13. [ ] Container With Most Water   	
-14. [ ] Trapping Rain Water   	
+14. [ ] Trapping Rain Water
+## Sliding Window   	
 15. [ ] Best Time to Buy And Sell Stock   	
 16. [ ] Longest Substring Without Repeating Characters   	
 17. [ ] Longest Repeating Character Replacement   	
 18. [ ] Permutation In String   	
 19. [ ] Minimum Window Substring   	
-20. [ ] Sliding Window Maximum   	
+20. [ ] Sliding Window Maximum
+## Stack   	
 21. [ ] Valid Parentheses   	
 22. [ ] Min Stack   	
 23. [ ] Evaluate Reverse Polish Notation   	
@@ -29,6 +33,7 @@ Dallas Scott - Neetcode Solutions in C#
 25. [ ] Daily Temperatures   	
 26. [ ] Car Fleet   	
 27. [ ] Largest Rectangle In Histogram   	
+## Binary Search
 28. [ ] Binary Search   	
 29. [ ] Search a 2D Matrix   	
 30. [ ] Koko Eating Bananas   	
@@ -36,6 +41,7 @@ Dallas Scott - Neetcode Solutions in C#
 32. [ ] Search In Rotated Sorted Array   	
 33. [ ] Time Based Key Value Store   	
 34. [ ] Median of Two Sorted Arrays   	
+## Linked List
 35. [ ] Reverse Linked List   	
 36. [ ] Merge Two Sorted Lists   	
 37. [ ] Linked List Cycle   	
@@ -47,6 +53,7 @@ Dallas Scott - Neetcode Solutions in C#
 43. [ ] LRU Cache   	
 44. [ ] Merge K Sorted Lists   	
 45. [ ] Reverse Nodes In K Group   	
+## Trees
 46. [ ] Invert Binary Tree   	
 47. [ ] Maximum Depth of Binary Tree   	
 48. [ ] Diameter of Binary Tree   	
@@ -62,6 +69,7 @@ Dallas Scott - Neetcode Solutions in C#
 58. [ ] Construct Binary Tree From Preorder And Inorder Traversal   	
 59. [ ] Binary Tree Maximum Path Sum   	
 60. [ ] Serialize And Deserialize Binary Tree   	
+## Heap/Priority Queue
 61. [ ] Kth Largest Element In a Stream   	
 62. [ ] Last Stone Weight   	
 63. [ ] K Closest Points to Origin   	
@@ -69,6 +77,7 @@ Dallas Scott - Neetcode Solutions in C#
 65. [ ] Task Scheduler   	
 66. [ ] Design Twitter   	
 67. [ ] Find Median From Data Stream   	
+## Backtracking
 68. [ ] Subsets   	
 69. [ ] Combination Sum   	
 70. [ ] Combination Sum II   	
@@ -78,9 +87,11 @@ Dallas Scott - Neetcode Solutions in C#
 74. [ ] Palindrome Partitioning   	
 75. [ ] Letter Combinations of a Phone Number   	
 76. [ ] N Queens   	
+## Tries
 77. [ ] Implement Trie Prefix Tree   	
 78. [ ] Design Add And Search Words Data Structure   	
 79. [ ] Word Search II   	
+## Graphs
 80. [ ] Number of Islands   	
 81. [ ] Max Area of Island   	
 82. [ ] Clone Graph   	
@@ -94,12 +105,14 @@ Dallas Scott - Neetcode Solutions in C#
 90. [ ] Number of Connected Components In An Undirected Graph   	
 91. [ ] Redundant Connection   	
 92. [ ] Word Ladder   	
+## Advanced Graphs
 93. [ ] Network Delay Time   	
 94. [ ] Reconstruct Itinerary   	
 95. [ ] Min Cost to Connect All Points   	
 96. [ ] Swim In Rising Water   	
 97. [ ] Alien Dictionary   	
 98. [ ] Cheapest Flights Within K Stops   	
+## 1-D Dynamic Programming
 99. [ ] Climbing Stairs   	
 100. [ ] Min Cost Climbing Stairs   	
 101. [ ] House Robber   	
@@ -112,6 +125,7 @@ Dallas Scott - Neetcode Solutions in C#
 108. [ ] Word Break   	
 109. [ ] Longest Increasing Subsequence   	
 110. [ ] Partition Equal Subset Sum   	
+## 2-D Dynamic Programming
 111. [ ] Unique Paths   	
 112. [ ] Longest Common Subsequence   	
 113. [ ] Best Time to Buy And Sell Stock With Cooldown   	
@@ -123,6 +137,7 @@ Dallas Scott - Neetcode Solutions in C#
 119. [ ] Edit Distance   	
 120. [ ] Burst Balloons   	
 121. [ ] Regular Expression Matching   	
+## Greedy
 122. [ ] Maximum Subarray   	
 123. [ ] Jump Game   	
 124. [ ] Jump Game II   	
@@ -131,12 +146,14 @@ Dallas Scott - Neetcode Solutions in C#
 127. [ ] Merge Triplets to Form Target Triplet   	
 128. [ ] Partition Labels   	
 129. [ ] Valid Parenthesis String   	
+## Intervals
 130. [ ] Insert Interval   	
 131. [ ] Merge Intervals   	
 132. [ ] Non Overlapping Intervals   	
 133. [ ] Meeting Rooms   	
 134. [ ] Meeting Rooms II   	
 135. [ ] Minimum Interval to Include Each Query   	
+## Math & Geometry
 136. [ ] Rotate Image   	
 137. [ ] Spiral Matrix   	
 138. [ ] Set Matrix Zeroes   	
@@ -145,6 +162,7 @@ Dallas Scott - Neetcode Solutions in C#
 141. [ ] Pow(x, n)   	
 142. [ ] Multiply Strings   	
 143. [ ] Detect Squares   	
+## Bit Manipulation
 144. [ ] Single Number   	
 145. [ ] Number of 1 Bits   	
 146. [ ] Counting Bits   	

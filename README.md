@@ -19,8 +19,8 @@ Dallas Scott - Neetcode Solutions in C#
 13. [x] Container With Most Water (5/20/25)
 14. [ ] Trapping Rain Water
 ## Sliding Window   	
-15. [ ] Best Time to Buy And Sell Stock   	
-16. [ ] Longest Substring Without Repeating Characters   	
+15. [x] Best Time to Buy And Sell Stock (5/21/25)
+16. [x] Longest Substring Without Repeating Characters (5/21/25)
 17. [ ] Longest Repeating Character Replacement   	
 18. [ ] Permutation In String   	
 19. [ ] Minimum Window Substring   	

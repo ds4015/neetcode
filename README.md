@@ -22,12 +22,12 @@ Dallas Scott - Neetcode Solutions in C#
 15. [x] Best Time to Buy And Sell Stock (5/21/25)
 16. [x] Longest Substring Without Repeating Characters (5/21/25)
 17. [ ] Longest Repeating Character Replacement   	
-18. [ ] Permutation In String   	
+18. [x] Permutation In String  (5/22/25)
 19. [ ] Minimum Window Substring   	
 20. [ ] Sliding Window Maximum
 ## Stack   	
-21. [ ] Valid Parentheses   	
-22. [ ] Min Stack   	
+21. [x] Valid Parentheses (5/22/25)
+22. [x] Min Stack (5/22/25)
 23. [ ] Evaluate Reverse Polish Notation   	
 24. [ ] Generate Parentheses   	
 25. [ ] Daily Temperatures   	

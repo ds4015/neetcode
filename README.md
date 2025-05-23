@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-<img width="1188" alt="Screenshot 2025-05-21 at 2 31 13 PM" src="https://github.com/user-attachments/assets/8550624d-55fd-45c6-bc35-8bd6b9b77e08" />
+5/22/25: 18/150
 
 ## Arrays and Hashing
 1. [x] Contains Duplicate (5/18/25)

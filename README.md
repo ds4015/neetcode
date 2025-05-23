@@ -30,7 +30,7 @@ Dallas Scott - Neetcode Solutions in C#
 ## Stack   	
 21. [x] Valid Parentheses (5/22/25)
 22. [x] Min Stack (5/22/25)
-23. [x] Evaluate Reverse Polish Notation   	
+23. [x] Evaluate Reverse Polish Notation (5/23/25)
 24. [ ] Generate Parentheses   	
 25. [x] Daily Temperatures (5/23/25)
 26. [ ] Car Fleet   	

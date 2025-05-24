@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-5/23/25: 20/150
+5/24/25: 21/150
 
 ## Arrays and Hashing
 1. [x] Contains Duplicate (5/18/25)
@@ -23,7 +23,7 @@ Dallas Scott - Neetcode Solutions in C#
 ## Sliding Window   	
 15. [x] Best Time to Buy And Sell Stock (5/21/25)
 16. [x] Longest Substring Without Repeating Characters (5/21/25)
-17. [ ] Longest Repeating Character Replacement   	
+17. [x] Longest Repeating Character Replacement (5/24/25)
 18. [x] Permutation In String  (5/22/25)
 19. [ ] Minimum Window Substring   	
 20. [ ] Sliding Window Maximum

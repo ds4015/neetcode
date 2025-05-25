@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-5/24/25: 21/150
+5/24/25: 23/150
 
 ## Arrays and Hashing
 1. [x] Contains Duplicate (5/18/25)
@@ -36,8 +36,8 @@ Dallas Scott - Neetcode Solutions in C#
 26. [ ] Car Fleet   	
 27. [ ] Largest Rectangle In Histogram   	
 ## Binary Search
-28. [ ] Binary Search   	
-29. [ ] Search a 2D Matrix   	
+28. [x] Binary Search (5/24/25)
+29. [x] Search a 2D Matrix (5/24/25)
 30. [ ] Koko Eating Bananas   	
 31. [ ] Find Minimum In Rotated Sorted Array   	
 32. [ ] Search In Rotated Sorted Array   	

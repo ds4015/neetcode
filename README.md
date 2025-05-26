@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-5/24/25: 23/150
+5/26/25: 24/150
 
 ## Arrays and Hashing
 1. [x] Contains Duplicate (5/18/25)
@@ -39,7 +39,7 @@ Dallas Scott - Neetcode Solutions in C#
 28. [x] Binary Search (5/24/25)
 29. [x] Search a 2D Matrix (5/24/25)
 30. [ ] Koko Eating Bananas   	
-31. [ ] Find Minimum In Rotated Sorted Array   	
+31. [x] Find Minimum In Rotated Sorted Array (5/26/25)
 32. [ ] Search In Rotated Sorted Array   	
 33. [ ] Time Based Key Value Store   	
 34. [ ] Median of Two Sorted Arrays   	

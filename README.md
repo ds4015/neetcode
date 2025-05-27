@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-5/26/25: 24/150
+5/27/25: 26/150
 
 ## Arrays and Hashing
 1. [x] Contains Duplicate (5/18/25)
@@ -44,8 +44,8 @@ Dallas Scott - Neetcode Solutions in C#
 33. [ ] Time Based Key Value Store   	
 34. [ ] Median of Two Sorted Arrays   	
 ## Linked List
-35. [ ] Reverse Linked List   	
-36. [ ] Merge Two Sorted Lists   	
+35. [x] Reverse Linked List (5/27/25)  	
+36. [x] Merge Two Sorted Lists (5/27/25)
 37. [ ] Linked List Cycle   	
 38. [ ] Reorder List   	
 39. [ ] Remove Nth Node From End of List   	

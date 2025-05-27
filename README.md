@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-5/27/25: 26/150
+5/27/25: 30/150
 
 ## Arrays and Hashing
 1. [x] Contains Duplicate (5/18/25)
@@ -11,7 +11,7 @@ Dallas Scott - Neetcode Solutions in C#
 4. [x] Group Anagrams (5/20/25)
 5. [x] Top K Frequent Elements (5/19/25)
 6. [x] Encode and Decode Strings (5/20/25)   	
-7. [x] Product of Array Except Self (5/19/25)   	
+7. [x] Product of Array Except Self (5/19/25) 
 8. [x] Valid Sudoku (5/19/25)
 9. [x] Longest Consecutive Sequence (5/19/25)
 ## Two Pointers
@@ -46,10 +46,10 @@ Dallas Scott - Neetcode Solutions in C#
 ## Linked List
 35. [x] Reverse Linked List (5/27/25)  	
 36. [x] Merge Two Sorted Lists (5/27/25)
-37. [ ] Linked List Cycle   	
-38. [ ] Reorder List   	
-39. [ ] Remove Nth Node From End of List   	
-40. [ ] Copy List With Random Pointer   	
+37. [x] Linked List Cycle (5/27/25)
+38. [x] Reorder List (5/27/25)
+39. [x] Remove Nth Node From End of List (5/27/25)
+40. [x] Copy List With Random Pointer (5/27/25)
 41. [ ] Add Two Numbers   	
 42. [ ] Find The Duplicate Number   	
 43. [ ] LRU Cache   	

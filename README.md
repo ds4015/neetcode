@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-5/28/25: 32/150
+5/28/25: 34/150
 
 ## Arrays and Hashing
 1. [x] Contains Duplicate (5/18/25)
@@ -56,8 +56,8 @@ Dallas Scott - Neetcode Solutions in C#
 44. [ ] Merge K Sorted Lists   	
 45. [x] Reverse Nodes In K Group (5/28/25)
 ## Trees
-46. [ ] Invert Binary Tree   	
-47. [ ] Maximum Depth of Binary Tree   	
+46. [x] Invert Binary Tree (5/28/25)
+47. [x] Maximum Depth of Binary Tree (5/28/25)
 48. [ ] Diameter of Binary Tree   	
 49. [ ] Balanced Binary Tree   	
 50. [ ] Same Tree   	

@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-5/28/25: 34/150
+5/28/25: 36/150
 
 ## Arrays and Hashing
 1. [x] Contains Duplicate (5/18/25)
@@ -58,9 +58,9 @@ Dallas Scott - Neetcode Solutions in C#
 ## Trees
 46. [x] Invert Binary Tree (5/28/25)
 47. [x] Maximum Depth of Binary Tree (5/28/25)
-48. [ ] Diameter of Binary Tree   	
+48. [x] Diameter of Binary Tree (5/28/25)  	
 49. [ ] Balanced Binary Tree   	
-50. [ ] Same Tree   	
+50. [x] Same Tree (5/28/25)
 51. [ ] Subtree of Another Tree   	
 52. [ ] Lowest Common Ancestor of a Binary Search Tree   	
 53. [ ] Binary Tree Level Order Traversal   	

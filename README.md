@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-5/28/25: 36/150
+5/29/25: 39/150
 
 ## Arrays and Hashing
 1. [x] Contains Duplicate (5/18/25)
@@ -63,9 +63,9 @@ Dallas Scott - Neetcode Solutions in C#
 50. [x] Same Tree (5/28/25)
 51. [ ] Subtree of Another Tree   	
 52. [ ] Lowest Common Ancestor of a Binary Search Tree   	
-53. [ ] Binary Tree Level Order Traversal   	
-54. [ ] Binary Tree Right Side View   	
-55. [ ] Count Good Nodes In Binary Tree   	
+53. [x] Binary Tree Level Order Traversal (5/29/25)
+54. [x] Binary Tree Right Side View (5/29/25)
+55. [x] Count Good Nodes In Binary Tree (5/29/25)
 56. [ ] Validate Binary Search Tree   	
 57. [ ] Kth Smallest Element In a Bst   	
 58. [ ] Construct Binary Tree From Preorder And Inorder Traversal   	

@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-5/29/25: 39/150
+5/30/25: 41/150
 
 ## Arrays and Hashing
 1. [x] Contains Duplicate (5/18/25)
@@ -72,8 +72,8 @@ Dallas Scott - Neetcode Solutions in C#
 59. [ ] Binary Tree Maximum Path Sum   	
 60. [ ] Serialize And Deserialize Binary Tree   	
 ## Heap/Priority Queue
-61. [ ] Kth Largest Element In a Stream   	
-62. [ ] Last Stone Weight   	
+61. [x] Kth Largest Element In a Stream (5/29/25)
+62. [x] Last Stone Weight (5/30/25)
 63. [ ] K Closest Points to Origin   	
 64. [ ] Kth Largest Element In An Array   	
 65. [ ] Task Scheduler   	

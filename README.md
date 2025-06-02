@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-6/01/25: 45/150
+6/01/25: 46/150
 
 ## Arrays and Hashing
 1. [x] Contains Duplicate (5/18/25)
@@ -95,7 +95,7 @@ Dallas Scott - Neetcode Solutions in C#
 79. [ ] Word Search II   	
 ## Graphs
 80. [x] Number of Islands (6/1/25)
-81. [ ] Max Area of Island   	
+81. [x] Max Area of Island (6/1/25)
 82. [ ] Clone Graph   	
 83. [ ] Walls And Gates   	
 84. [ ] Rotting Oranges   	

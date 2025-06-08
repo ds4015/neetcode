@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-6/8/25: 50/150
+6/8/25: 53/150
 
 ## Arrays and Hashing
 1. [x] Contains Duplicate (5/18/25)
@@ -90,9 +90,9 @@ Dallas Scott - Neetcode Solutions in C#
 75. [ ] Letter Combinations of a Phone Number   	
 76. [ ] N Queens   	
 ## Tries
-77. [ ] Implement Trie Prefix Tree   	
-78. [ ] Design Add And Search Words Data Structure   	
-79. [ ] Word Search II   	
+77. [x] Implement Trie Prefix Tree (6/8/25)
+78. [x] Design Add And Search Words Data Structure (6/8/25)
+79. [x] Word Search II (6/8/25)
 ## Graphs
 80. [x] Number of Islands (6/1/25)
 81. [x] Max Area of Island (6/1/25)

@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-6/8/25: 49/150
+6/8/25: 50/150
 
 ## Arrays and Hashing
 1. [x] Contains Duplicate (5/18/25)
@@ -78,7 +78,7 @@ Dallas Scott - Neetcode Solutions in C#
 64. [x] Kth Largest Element In An Array (5/30/25)
 65. [ ] Task Scheduler   	
 66. [x] Design Twitter (5/30/25)
-67. [ ] Find Median From Data Stream   	
+67. [x] Find Median From Data Stream (5/30/25)
 ## Backtracking
 68. [x] Subsets (6/1/25)
 69. [ ] Combination Sum   	

@@ -102,7 +102,7 @@ Dallas Scott - Neetcode Solutions in C#
 85. [x] Pacific Atlantic Water Flow (6/8/25)
 86. [x] Surrounded Regions (6/8/25)
 87. [x] Course Schedule (6/15/25)
-88. [ ] Course Schedule II   	
+88. [x] Course Schedule II (6/15/25)
 89. [ ] Graph Valid Tree   	
 90. [ ] Number of Connected Components In An Undirected Graph   	
 91. [ ] Redundant Connection   	

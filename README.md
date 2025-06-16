@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-6/15/25: 55/150
+6/16/25: 57/150
 
 ## Arrays and Hashing
 1. [x] Contains Duplicate (5/18/25)
@@ -103,7 +103,7 @@ Dallas Scott - Neetcode Solutions in C#
 86. [x] Surrounded Regions (6/8/25)
 87. [x] Course Schedule (6/15/25)
 88. [x] Course Schedule II (6/15/25)
-89. [ ] Graph Valid Tree   	
+89. [x] Graph Valid Tree (6/16/25)
 90. [ ] Number of Connected Components In An Undirected Graph   	
 91. [ ] Redundant Connection   	
 92. [ ] Word Ladder   	

@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-6/16/25: 58/150
+6/19/25: 59/150
 
 ## Arrays and Hashing
 1. [x] Contains Duplicate (5/18/25)
@@ -81,7 +81,7 @@ Dallas Scott - Neetcode Solutions in C#
 67. [x] Find Median From Data Stream (5/30/25)
 ## Backtracking
 68. [x] Subsets (6/1/25)
-69. [ ] Combination Sum   	
+69. [x] Combination Sum (6/19/25)
 70. [ ] Combination Sum II   	
 71. [ ] Permutations   	
 72. [ ] Subsets II   	

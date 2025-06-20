@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-6/19/25: 61/150
+6/20/25: 62/150
 
 ## Arrays and Hashing
 1. [x] Contains Duplicate (5/18/25)
@@ -84,7 +84,7 @@ Dallas Scott - Neetcode Solutions in C#
 69. [x] Combination Sum (6/19/25)
 70. [x] Combination Sum II (6/19/25)
 71. [x] Permutations (6/19/25)
-72. [ ] Subsets II   	
+72. [x] Subsets II (6/20/25)
 73. [ ] Word Search   	
 74. [ ] Palindrome Partitioning   	
 75. [ ] Letter Combinations of a Phone Number   	

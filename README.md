@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-6/20/25: 66/150
+6/20/25: 67/150
 
 ## Arrays and Hashing
 1. [x] Contains Duplicate (5/18/25)

@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-6/20/25: 68/150
+6/22/25: 69/150
 
 ## Arrays and Hashing
 1. [x] Contains Duplicate (5/18/25)
@@ -118,7 +118,7 @@ Dallas Scott - Neetcode Solutions in C#
 99. [x] Climbing Stairs (6/21/25)
 100. [x] Min Cost Climbing Stairs (6/21/25)
 101. [x] House Robber (6/22/25)
-102. [ ] House Robber II   	
+102. [x] House Robber II (6/22/25)
 103. [ ] Longest Palindromic Substring   	
 104. [ ] Palindromic Substrings   	
 105. [ ] Decode Ways   	

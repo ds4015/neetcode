@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-6/22/25: 71/150
+6/23/25: 72/150
 
 ## Arrays and Hashing
 1. [x] Contains Duplicate (5/18/25)
@@ -124,7 +124,7 @@ Dallas Scott - Neetcode Solutions in C#
 105. [ ] Decode Ways   	
 106. [ ] Coin Change   	
 107. [ ] Maximum Product Subarray   	
-108. [ ] Word Break   	
+108. [x] Word Break (6/23/25)
 109. [ ] Longest Increasing Subsequence   	
 110. [ ] Partition Equal Subset Sum   	
 ## 2-D Dynamic Programming

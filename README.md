@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-6/24/25: 75/150
+6/24/25: 76/150
 
 ## Arrays and Hashing
 1. [x] Contains Duplicate (5/18/25)
@@ -157,7 +157,7 @@ Dallas Scott - Neetcode Solutions in C#
 135. [ ] Minimum Interval to Include Each Query   	
 ## Math & Geometry
 136. [x] Rotate Image (6/24/25)
-137. [ ] Spiral Matrix   	
+137. [x] Spiral Matrix (6/24/25)
 138. [ ] Set Matrix Zeroes   	
 139. [ ] Happy Number   	
 140. [ ] Plus One   	

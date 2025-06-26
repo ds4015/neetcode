@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-6/24/25: 76/150
+6/25/25: 80/150
 
 ## Arrays and Hashing
 1. [x] Contains Duplicate (5/18/25)
@@ -158,10 +158,10 @@ Dallas Scott - Neetcode Solutions in C#
 ## Math & Geometry
 136. [x] Rotate Image (6/24/25)
 137. [x] Spiral Matrix (6/24/25)
-138. [ ] Set Matrix Zeroes   	
-139. [ ] Happy Number   	
-140. [ ] Plus One   	
-141. [ ] Pow(x, n)   	
+138. [x] Set Matrix Zeroes (6/25/25)
+139. [x] Happy Number (6/25/25)
+140. [x] Plus One (6/25/25)
+141. [x] Pow(x, n) (6/25/25)
 142. [ ] Multiply Strings   	
 143. [ ] Detect Squares   	
 ## Bit Manipulation

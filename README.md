@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-6/25/25: 80/150
+6/26/25: 82/150
 
 ## Arrays and Hashing
 1. [x] Contains Duplicate (5/18/25)
@@ -140,8 +140,8 @@ Dallas Scott - Neetcode Solutions in C#
 120. [ ] Burst Balloons   	
 121. [ ] Regular Expression Matching   	
 ## Greedy
-122. [ ] Maximum Subarray   	
-123. [ ] Jump Game   	
+122. [x] Maximum Subarray (6/26/25)
+123. [x] Jump Game (6/26/25)
 124. [ ] Jump Game II   	
 125. [ ] Gas Station   	
 126. [ ] Hand of Straights   	

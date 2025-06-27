@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-6/26/25: 82/150
+6/27/25: 85/150
 
 ## Arrays and Hashing
 1. [x] Contains Duplicate (5/18/25)
@@ -142,9 +142,9 @@ Dallas Scott - Neetcode Solutions in C#
 ## Greedy
 122. [x] Maximum Subarray (6/26/25)
 123. [x] Jump Game (6/26/25)
-124. [ ] Jump Game II   	
-125. [ ] Gas Station   	
-126. [ ] Hand of Straights   	
+124. [x] Jump Game II (6/27/25)
+125. [x] Gas Station (6/27/25)  	
+126. [x] Hand of Straights (6/27/25)
 127. [ ] Merge Triplets to Form Target Triplet   	
 128. [ ] Partition Labels   	
 129. [ ] Valid Parenthesis String   	

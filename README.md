@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-6/27/25: 85/150
+6/27/25: 86/150
 
 ## Arrays and Hashing
 1. [x] Contains Duplicate (5/18/25)
@@ -31,7 +31,7 @@ Dallas Scott - Neetcode Solutions in C#
 21. [x] Valid Parentheses (5/22/25)
 22. [x] Min Stack (5/22/25)
 23. [x] Evaluate Reverse Polish Notation (5/23/25)
-24. [ ] Generate Parentheses   	
+24. [x] Generate Parentheses (6/27/25)
 25. [x] Daily Temperatures (5/23/25)
 26. [ ] Car Fleet   	
 27. [ ] Largest Rectangle In Histogram   	

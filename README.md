@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-6/27/25: 86/150
+6/28/25: 87/150
 
 ## Arrays and Hashing
 1. [x] Contains Duplicate (5/18/25)
@@ -41,7 +41,7 @@ Dallas Scott - Neetcode Solutions in C#
 30. [ ] Koko Eating Bananas   	
 31. [x] Find Minimum In Rotated Sorted Array (5/26/25)
 32. [ ] Search In Rotated Sorted Array   	
-33. [ ] Time Based Key Value Store   	
+33. [x] Time Based Key Value Store (6/28/25)
 34. [ ] Median of Two Sorted Arrays   	
 ## Linked List
 35. [x] Reverse Linked List (5/27/25)  	

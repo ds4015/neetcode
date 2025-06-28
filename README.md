@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-6/28/25: 88/150
+6/28/25: 89/150
 
 ## Arrays and Hashing
 1. [x] Contains Duplicate (5/18/25)
@@ -152,7 +152,7 @@ Dallas Scott - Neetcode Solutions in C#
 130. [x] Insert Interval (6/24/25)
 131. [ ] Merge Intervals   	
 132. [ ] Non Overlapping Intervals   	
-133. [ ] Meeting Rooms   	
+133. [x] Meeting Rooms (6/28/25)
 134. [ ] Meeting Rooms II   	
 135. [ ] Minimum Interval to Include Each Query   	
 ## Math & Geometry

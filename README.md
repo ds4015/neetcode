@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-6/28/25: 87/150
+6/28/25: 88/150
 
 ## Arrays and Hashing
 1. [x] Contains Duplicate (5/18/25)
@@ -51,7 +51,7 @@ Dallas Scott - Neetcode Solutions in C#
 39. [x] Remove Nth Node From End of List (5/27/25)
 40. [x] Copy List With Random Pointer (5/27/25)
 41. [x] Add Two Numbers (5/27/25)
-42. [ ] Find The Duplicate Number   	
+42. [x] Find The Duplicate Number (6/28/25)
 43. [ ] LRU Cache   	
 44. [ ] Merge K Sorted Lists   	
 45. [x] Reverse Nodes In K Group (5/28/25)

@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-6/29/25: 91/150
+6/29/25: 92/150
 
 ## Arrays and Hashing
 1.  [Contains Duplicate](https://github.com/ds4015/neetcode/blob/main/contains_duplicate.cs) (5/18/25)
@@ -42,7 +42,7 @@ Dallas Scott - Neetcode Solutions in C#
 31.  [Find Minimum In Rotated Sorted Array](https://github.com/ds4015/neetcode/blob/main/find_minimum_in_rotated_sorted_array.cs) (5/26/25)
 32.  Search In Rotated Sorted Array   	
 33.  [Time Based Key Value Store](https://github.com/ds4015/neetcode/blob/main/time_based_key-value_store.cs) (6/28/25)
-34.  Median of Two Sorted Arrays   	
+34.  [Median of Two Sorted Arrays](https://github.com/ds4015/neetcode/blob/main/median_of_two_sorted_arrays.cs) (6/29/25)  	
 ## Linked List
 35.  [Reverse Linked List](https://github.com/ds4015/neetcode/blob/main/reverse_linked_list.cs) (5/27/25)  	
 36.  [Merge Two Sorted Lists](https://github.com/ds4015/neetcode/blob/main/merge_two_sorted_linked_lists.cs) (5/27/25)

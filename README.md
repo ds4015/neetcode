@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-6/29/25: 90/150
+6/29/25: 91/150
 
 ## Arrays and Hashing
 1.  [Contains Duplicate](https://github.com/ds4015/neetcode/blob/main/contains_duplicate.cs) (5/18/25)
@@ -87,7 +87,7 @@ Dallas Scott - Neetcode Solutions in C#
 72.  [Subsets II](https://github.com/ds4015/neetcode/blob/main/subsets_ii.cs) (6/20/25)
 73.  [Word Search](https://github.com/ds4015/neetcode/blob/main/word_search.cs) (6/29/25)   	
 74.  Palindrome Partitioning   	
-75.  Letter Combinations of a Phone Number   	
+75.  [Letter Combinations of a Phone Number](https://github.com/ds4015/neetcode/blob/main/letter_combinations_of_a_phone_number.cs)	(6/29/25)
 76.  N Queens   	
 ## Tries
 77.  [Implement Trie Prefix Tree](https://github.com/ds4015/neetcode/blob/main/implement_trie.cs) (6/8/25)

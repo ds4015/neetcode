@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-6/29/25: 92/150
+6/29/25: 93/150
 
 ## Arrays and Hashing
 1.  [Contains Duplicate](https://github.com/ds4015/neetcode/blob/main/contains_duplicate.cs) (5/18/25)
@@ -128,7 +128,7 @@ Dallas Scott - Neetcode Solutions in C#
 109.  [Longest Increasing Subsequence](https://github.com/ds4015/neetcode/blob/main/longest_increasing_subsequence.cs) (6/23/25)
 110.  Partition Equal Subset Sum   	
 ## 2-D Dynamic Programming
-111.  Unique Paths   	
+111.  [Unique Paths](https://github.com/ds4015/neetcode/blob/main/unique_paths.cs) (7/1/25)   	
 112.  Longest Common Subsequence   	
 113.  Best Time to Buy And Sell Stock With Cooldown   	
 114.  Coin Change II   	

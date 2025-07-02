@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-7/1/25: 94/150
+7/2/25: 95/150
 
 ## Arrays and Hashing
 1.  [Contains Duplicate](https://github.com/ds4015/neetcode/blob/main/contains_duplicate.cs) (5/18/25)
@@ -130,7 +130,7 @@ Dallas Scott - Neetcode Solutions in C#
 ## 2-D Dynamic Programming
 111.  [Unique Paths](https://github.com/ds4015/neetcode/blob/main/unique_paths.cs) (7/1/25)   	
 112.  Longest Common Subsequence   	
-113.  Best Time to Buy And Sell Stock With Cooldown   	
+113.  [Best Time to Buy And Sell Stock With Cooldown](https://github.com/ds4015/neetcode/blob/main/best_time_to_buy_and_sell_stock_with_cooldown.cs) (7/2/25)	
 114.  Coin Change II   	
 115.  Target Sum   	
 116.  Interleaving String   	
@@ -146,7 +146,7 @@ Dallas Scott - Neetcode Solutions in C#
 125.  [Gas Station](https://github.com/ds4015/neetcode/blob/main/gas_station.cs) (6/27/25)  	
 126.  [Hand of Straights](https://github.com/ds4015/neetcode/blob/main/hand_of_straights.cs) (6/27/25)
 127.  Merge Triplets to Form Target Triplet   	
-128.  [Partition Labels](https://github.com/ds4015/neetcode/blob/main/hand_of_straights.cs) (7/1/25)  	
+128.  [Partition Labels](https://github.com/ds4015/neetcode/blob/main/partition_labels.cs) (7/1/25)  	
 129.  Valid Parenthesis String   	
 ## Intervals
 130.  [Insert Interval](https://github.com/ds4015/neetcode/blob/main/insert_interval.cs) (6/24/25)

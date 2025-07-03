@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-7/2/25: 95/150
+7/3/25: 98/150
 
 ## Arrays and Hashing
 1.  [Contains Duplicate](https://github.com/ds4015/neetcode/blob/main/contains_duplicate.cs) (5/18/25)
@@ -62,12 +62,12 @@ Dallas Scott - Neetcode Solutions in C#
 49.  [Balanced Binary Tree](https://github.com/ds4015/neetcode/blob/main/balanced_binary_tree.cs) (6/21/25)
 50.  [Same Tree](https://github.com/ds4015/neetcode/blob/main/same_binary_tree.cs) (5/28/25)
 51.  [Subtree of Another Tree](https://github.com/ds4015/neetcode/blob/main/subtree_of_another_tree.cs) (6/21/25)
-52.  Lowest Common Ancestor of a Binary Search Tree   	
+52.  [Lowest Common Ancestor of a Binary Search Tree](https://github.com/ds4015/neetcode/blob/main/lowest_common_ancestory_in_binary_search_tree.cs) (7/3/25)
 53.  [Binary Tree Level Order Traversal](https://github.com/ds4015/neetcode/blob/main/binary_tree_level_order_traversal.cs) (5/29/25)
 54.  [Binary Tree Right Side View](https://github.com/ds4015/neetcode/blob/main/binary_tree_right_side_view.cs) (5/29/25)
 55.  [Count Good Nodes In Binary Tree](https://github.com/ds4015/neetcode/blob/main/count_good_nodes_in_binary_tree.cs) (5/29/25)
-56.  Validate Binary Search Tree   	
-57.  Kth Smallest Element In a Bst   	
+56.  [Validate Binary Search Tree](https://github.com/ds4015/neetcode/blob/main/valid_binary_search_tree.cs) (7/3/25)
+57.  [Kth Smallest Element In a BST](https://github.com/ds4015/neetcode/blob/main/kth_smallest_integer_in_bst.cs) (7/3/25)
 58.  Construct Binary Tree From Preorder And Inorder Traversal   	
 59.  Binary Tree Maximum Path Sum   	
 60.  Serialize And Deserialize Binary Tree   	

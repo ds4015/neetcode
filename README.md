@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-7/3/25: 98/150
+7/4/25: 99/150
 
 ## Arrays and Hashing
 1.  [Contains Duplicate](https://github.com/ds4015/neetcode/blob/main/contains_duplicate.cs) (5/18/25)
@@ -70,7 +70,7 @@ Dallas Scott - Neetcode Solutions in C#
 57.  [Kth Smallest Element In a BST](https://github.com/ds4015/neetcode/blob/main/kth_smallest_integer_in_bst.cs) (7/3/25)
 58.  Construct Binary Tree From Preorder And Inorder Traversal   	
 59.  Binary Tree Maximum Path Sum   	
-60.  Serialize And Deserialize Binary Tree   	
+60.  [Serialize And Deserialize Binary Tree](https://github.com/ds4015/neetcode/blob/main/serialize_and_deserialize_binary_tree.cs) (7/4/25)
 ## Heap/Priority Queue
 61.  [Kth Largest Element In a Stream](https://github.com/ds4015/neetcode/blob/main/kth_largest_element_in_a_stream.cs) (5/29/25)
 62.  [Last Stone Weight](https://github.com/ds4015/neetcode/blob/main/last_stone_weight.cs) (5/30/25)

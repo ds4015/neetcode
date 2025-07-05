@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-7/4/25: 101/150
+7/5/25: 102/150
 
 ## Arrays and Hashing
 1.  [Contains Duplicate](https://github.com/ds4015/neetcode/blob/main/contains_duplicate.cs) (5/18/25)
@@ -40,7 +40,7 @@ Dallas Scott - Neetcode Solutions in C#
 29.  [Search a 2D Matrix](https://github.com/ds4015/neetcode/blob/main/search_a_2d_matrix.cs) (5/24/25)
 30.  Koko Eating Bananas   	
 31.  [Find Minimum In Rotated Sorted Array](https://github.com/ds4015/neetcode/blob/main/find_minimum_in_rotated_sorted_array.cs) (5/26/25)
-32.  Search In Rotated Sorted Array   	
+32.  [Search In Rotated Sorted Array](https://github.com/ds4015/neetcode/blob/main/search_in_rotated_sorted_array.cs) (7/5/25)
 33.  [Time Based Key Value Store](https://github.com/ds4015/neetcode/blob/main/time_based_key-value_store.cs) (6/28/25)
 34.  [Median of Two Sorted Arrays](https://github.com/ds4015/neetcode/blob/main/median_of_two_sorted_arrays.cs) (6/29/25)  	
 ## Linked List
@@ -106,7 +106,7 @@ Dallas Scott - Neetcode Solutions in C#
 89.  [Graph Valid Tree](https://github.com/ds4015/neetcode/blob/main/graph_valid_tree.cs) (6/16/25)
 90.  [Number of Connected Components In An Undirected Graph](https://github.com/ds4015/neetcode/blob/main/number_of_connected_components_in_an_undirected_graph.cs) (6/16/25)
 91.  Redundant Connection   	
-92.  [Word Ladder [Hard]](https://github.com/ds4015/neetcode/blob/main/word_ladder.cs) (6/20/25)
+92.  [Word Ladder](https://github.com/ds4015/neetcode/blob/main/word_ladder.cs) (6/20/25)
 ## Advanced Graphs
 93.  Network Delay Time   	
 94.  Reconstruct Itinerary   	

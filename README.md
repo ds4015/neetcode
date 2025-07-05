@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-7/4/25: 99/150
+7/4/25: 101/150
 
 ## Arrays and Hashing
 1.  [Contains Duplicate](https://github.com/ds4015/neetcode/blob/main/contains_duplicate.cs) (5/18/25)
@@ -132,9 +132,9 @@ Dallas Scott - Neetcode Solutions in C#
 112.  Longest Common Subsequence   	
 113.  [Best Time to Buy And Sell Stock With Cooldown](https://github.com/ds4015/neetcode/blob/main/best_time_to_buy_and_sell_stock_with_cooldown.cs) (7/2/25)	
 114.  Coin Change II   	
-115.  Target Sum   	
+115.  [Target Sum](https://github.com/ds4015/neetcode/blob/main/target_sum.cs) (7/4/25)   	
 116.  Interleaving String   	
-117.  Longest Increasing Path In a Matrix   	
+117.  [Longest Increasing Path In a Matrix](ttps://github.com/ds4015/neetcode/blob/main/longest_increasing_path_in_matrix.cs) (7/4/25)
 118.  Distinct Subsequences   	
 119.  Edit Distance   	
 120.  Burst Balloons   	

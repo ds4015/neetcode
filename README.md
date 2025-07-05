@@ -134,7 +134,7 @@ Dallas Scott - Neetcode Solutions in C#
 114.  Coin Change II   	
 115.  [Target Sum](https://github.com/ds4015/neetcode/blob/main/target_sum.cs) (7/4/25)   	
 116.  Interleaving String   	
-117.  [Longest Increasing Path In a Matrix](ttps://github.com/ds4015/neetcode/blob/main/longest_increasing_path_in_matrix.cs) (7/4/25)
+117.  [Longest Increasing Path In a Matrix](https://github.com/ds4015/neetcode/blob/main/longest_increasing_path_in_matrix.cs) (7/4/25)
 118.  Distinct Subsequences   	
 119.  Edit Distance   	
 120.  Burst Balloons   	

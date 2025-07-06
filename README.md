@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-7/5/25: 102/150
+7/5/25: 103/150
 
 ## Arrays and Hashing
 1.  [Contains Duplicate](https://github.com/ds4015/neetcode/blob/main/contains_duplicate.cs) (5/18/25)
@@ -19,7 +19,7 @@ Dallas Scott - Neetcode Solutions in C#
 11.  [Two Sum II Input Array Is Sorted](https://github.com/ds4015/neetcode/blob/main/two_integer_sum_ii.cs) (5/19/25)
 12.  [3Sum](https://github.com/ds4015/neetcode/blob/main/3_sum.cs) (5/20/25)   	
 13.  [Container With Most Water](https://github.com/ds4015/neetcode/blob/main/container_with_most_water.cs) (5/20/25)
-14.  Trapping Rain Water
+14.  [Trapping Rain Water](https://github.com/ds4015/neetcode/blob/main/trapping_rain_water.cs) (7/5/25)
 ## Sliding Window   	
 15.  [Best Time to Buy And Sell Stock](https://github.com/ds4015/neetcode/blob/main/best_time_to_buy_and_sell_stock.cs) (5/21/25)
 16.  [Longest Substring Without Repeating Characters](https://github.com/ds4015/neetcode/blob/main/longest_substring_without_repeating_characters.cs) (5/21/25)

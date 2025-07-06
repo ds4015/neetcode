@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-7/5/25: 103/150
+7/5/25: 104/150
 
 ## Arrays and Hashing
 1.  [Contains Duplicate](https://github.com/ds4015/neetcode/blob/main/contains_duplicate.cs) (5/18/25)
@@ -166,7 +166,7 @@ Dallas Scott - Neetcode Solutions in C#
 143.  Detect Squares   	
 ## Bit Manipulation
 144.  Single Number   	
-145.  Number of 1 Bits   	
+145.  [Number of 1 Bits](https://github.com/ds4015/neetcode/blob/main/number_of_one_bits.cs) (7/5/25)   	
 146.  Counting Bits   	
 147.  Reverse Bits   	
 148.  Missing Number   	

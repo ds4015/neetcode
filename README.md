@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-7/8/25: 109/150
+7/8/25: 110/150
 
 ## Arrays and Hashing
 1.  [Contains Duplicate](https://github.com/ds4015/neetcode/blob/main/contains_duplicate.cs) (5/18/25)
@@ -123,7 +123,7 @@ Dallas Scott - Neetcode Solutions in C#
 104.  [Palindromic Substrings](https://github.com/ds4015/neetcode/blob/main/palindromic_substrings.cs) (6/22/25)
 105.  Decode Ways   	
 106.  Coin Change   	
-107.  Maximum Product Subarray   	
+107.  [Maximum Product Subarray](https://github.com/ds4015/neetcode/blob/main/maximum_product_subarray.cs) (7/8/25)
 108.  [Word Break](https://github.com/ds4015/neetcode/blob/main/word_break.cs) (6/23/25)
 109.  [Longest Increasing Subsequence](https://github.com/ds4015/neetcode/blob/main/longest_increasing_subsequence.cs) (6/23/25)
 110.  Partition Equal Subset Sum   	

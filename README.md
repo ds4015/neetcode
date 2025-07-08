@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-7/6/25: 108/150
+7/8/25: 109/150
 
 ## Arrays and Hashing
 1.  [Contains Duplicate](https://github.com/ds4015/neetcode/blob/main/contains_duplicate.cs) (5/18/25)
@@ -26,7 +26,7 @@ Dallas Scott - Neetcode Solutions in C#
 17.  [Longest Repeating Character Replacement](https://github.com/ds4015/neetcode/blob/main/longest_repeating_character_replacement.cs) (5/24/25)
 18.  [Permutation In String ](https://github.com/ds4015/neetcode/blob/main/permutation_in_string.cs) (5/22/25)
 19.  [Minimum Window Substring](https://github.com/ds4015/neetcode/blob/main/minimum_window_substring.cs) (7/6/25)
-20.  Sliding Window Maximum
+20.  [Sliding Window Maximum](https://github.com/ds4015/neetcode/blob/main/sliding_window_maximum.cs) (7/8/25)
 ## Stack   	
 21.  [Valid Parentheses](https://github.com/ds4015/neetcode/blob/main/valid_parentheses.cs) (5/22/25)
 22.  [Min Stack](https://github.com/ds4015/neetcode/blob/main/minimum_stack.cs) (5/22/25)

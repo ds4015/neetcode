@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-7/8/25: 110/150
+7/9/25: 111/150
 
 ## Arrays and Hashing
 1.  [Contains Duplicate](https://github.com/ds4015/neetcode/blob/main/contains_duplicate.cs) (5/18/25)
@@ -74,7 +74,7 @@ Dallas Scott - Neetcode Solutions in C#
 ## Heap/Priority Queue
 61.  [Kth Largest Element In a Stream](https://github.com/ds4015/neetcode/blob/main/kth_largest_element_in_a_stream.cs) (5/29/25)
 62.  [Last Stone Weight](https://github.com/ds4015/neetcode/blob/main/last_stone_weight.cs) (5/30/25)
-63.  K Closest Points to Origin   	
+63.  [K Closest Points to Origin](https://github.com/ds4015/neetcode/blob/main/k_closest_points_to_origin.cs) (7/9/25)   	
 64.  [Kth Largest Element In An Array](https://github.com/ds4015/neetcode/blob/main/kth_largest_element.cs) (5/30/25)
 65.  Task Scheduler   	
 66.  [Design Twitter](https://github.com/ds4015/neetcode/blob/main/design_twitter.cs) (5/30/25)

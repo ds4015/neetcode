@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-7/9/25: 111/150
+7/10/25: 112/150
 
 ## Arrays and Hashing
 1.  [Contains Duplicate](https://github.com/ds4015/neetcode/blob/main/contains_duplicate.cs) (5/18/25)
@@ -52,7 +52,7 @@ Dallas Scott - Neetcode Solutions in C#
 40.  [Copy List With Random Pointer](https://github.com/ds4015/neetcode/blob/main/copy_linked_list_with_random_pointer.cs) (5/27/25)
 41.  [Add Two Numbers](https://github.com/ds4015/neetcode/blob/main/add_two_numbers.cs) (5/27/25)
 42.  [Find The Duplicate Number](https://github.com/ds4015/neetcode/blob/main/find_the_duplicate_number.cs) (6/28/25)
-43.  LRU Cache   	
+43.  [LRU Cache](https://github.com/ds4015/neetcode/blob/main/lru_cache.cs) (7/10/25)  	
 44.  Merge K Sorted Lists   	
 45.  [Reverse Nodes In K Group](https://github.com/ds4015/neetcode/blob/main/reverse_nodes_in_k_group.cs) (5/28/25)
 ## Trees

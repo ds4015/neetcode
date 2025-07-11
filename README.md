@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-7/10/25: 113/150
+7/10/25: 115/150
 
 ## Arrays and Hashing
 1.  [Contains Duplicate](https://github.com/ds4015/neetcode/blob/main/contains_duplicate.cs) (5/18/25)
@@ -147,10 +147,10 @@ Dallas Scott - Neetcode Solutions in C#
 126.  [Hand of Straights](https://github.com/ds4015/neetcode/blob/main/hand_of_straights.cs) (6/27/25)
 127.  [Merge Triplets to Form Target Triplet](https://github.com/ds4015/neetcode/blob/main/merge_triplets_to_form_target.cs) (7/10/25)
 128.  [Partition Labels](https://github.com/ds4015/neetcode/blob/main/partition_labels.cs) (7/1/25)  	
-129.  Valid Parenthesis String   	
+129.  [Valid Parenthesis String](https://github.com/ds4015/neetcode/blob/main/valid_parenthesis_string.cs) (7/10/25)
 ## Intervals
 130.  [Insert Interval](https://github.com/ds4015/neetcode/blob/main/insert_interval.cs) (6/24/25)
-131.  Merge Intervals   	
+131.  [Merge Intervals](https://github.com/ds4015/neetcode/blob/main/merge_intervals.cs) (7/10/25) 	
 132.  Non Overlapping Intervals   	
 133.  [Meeting Rooms](https://github.com/ds4015/neetcode/blob/main/meeting_rooms.cs) (6/28/25)
 134.  Meeting Rooms II   	

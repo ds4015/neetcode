@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-7/13/25: 117/150
+7/14/25: 118/150
 
 ## Arrays and Hashing
 1.  [Contains Duplicate](https://github.com/ds4015/neetcode/blob/main/contains_duplicate.cs) (5/18/25)
@@ -122,7 +122,7 @@ Dallas Scott - Neetcode Solutions in C#
 103.  [Longest Palindromic Substring](https://github.com/ds4015/neetcode/blob/main/longest_palindromic_substring.cs) (6/22/25)
 104.  [Palindromic Substrings](https://github.com/ds4015/neetcode/blob/main/palindromic_substrings.cs) (6/22/25)
 105.  [Decode Ways](https://github.com/ds4015/neetcode/blob/main/decode_ways.cs) (7/13/25)  	
-106.  Coin Change   	
+106.  [Coin Change](https://github.com/ds4015/neetcode/blob/main/coin_change.cs) (7/14/25)
 107.  [Maximum Product Subarray](https://github.com/ds4015/neetcode/blob/main/maximum_product_subarray.cs) (7/8/25)
 108.  [Word Break](https://github.com/ds4015/neetcode/blob/main/word_break.cs) (6/23/25)
 109.  [Longest Increasing Subsequence](https://github.com/ds4015/neetcode/blob/main/longest_increasing_subsequence.cs) (6/23/25)

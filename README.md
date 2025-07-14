@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-7/13/25: 116/150
+7/13/25: 117/150
 
 ## Arrays and Hashing
 1.  [Contains Duplicate](https://github.com/ds4015/neetcode/blob/main/contains_duplicate.cs) (5/18/25)
@@ -97,7 +97,7 @@ Dallas Scott - Neetcode Solutions in C#
 80.  [Number of Islands](https://github.com/ds4015/neetcode/blob/main/number_of_islands.cs) (6/1/25)
 81.  [Max Area of Island](https://github.com/ds4015/neetcode/blob/main/max_area_of_island.cs) (6/1/25)
 82.  [Clone Graph](https://github.com/ds4015/neetcode/blob/main/clone_graph.cs) (6/2/25)
-83.  Walls And Gates   	
+83.  [Islands and Treasure](https://github.com/ds4015/neetcode/blob/main/islands_and_treasure.cs) (7/13/25)
 84.  [Rotting Oranges](https://github.com/ds4015/neetcode/blob/main/rotting_fruit.cs) (6/7/25)
 85.  [Pacific Atlantic Water Flow](https://github.com/ds4015/neetcode/blob/main/pacific_atlantic_water_flow.cs) (6/8/25)
 86.  [Surrounded Regions](https://github.com/ds4015/neetcode/blob/main/surrounded_regions.cs) (6/8/25)

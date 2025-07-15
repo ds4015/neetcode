@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-7/14/25: 118/150
+7/14/25: 119/150
 
 ## Arrays and Hashing
 1.  [Contains Duplicate](https://github.com/ds4015/neetcode/blob/main/contains_duplicate.cs) (5/18/25)
@@ -126,7 +126,7 @@ Dallas Scott - Neetcode Solutions in C#
 107.  [Maximum Product Subarray](https://github.com/ds4015/neetcode/blob/main/maximum_product_subarray.cs) (7/8/25)
 108.  [Word Break](https://github.com/ds4015/neetcode/blob/main/word_break.cs) (6/23/25)
 109.  [Longest Increasing Subsequence](https://github.com/ds4015/neetcode/blob/main/longest_increasing_subsequence.cs) (6/23/25)
-110.  Partition Equal Subset Sum   	
+110.  [Partition Equal Subset Sum](https://github.com/ds4015/neetcode/blob/main/longest_increasing_subsequence.cs) (7/14/25)  	
 ## 2-D Dynamic Programming
 111.  [Unique Paths](https://github.com/ds4015/neetcode/blob/main/unique_paths.cs) (7/1/25)   	
 112.  Longest Common Subsequence   	

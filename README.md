@@ -2,7 +2,7 @@
 
 Dallas Scott - Neetcode Solutions in C#
 
-7/14/25: 119/150
+7/17/25: 120/150
 
 ## Arrays and Hashing
 1.  [Contains Duplicate](https://github.com/ds4015/neetcode/blob/main/contains_duplicate.cs) (5/18/25)
@@ -136,7 +136,7 @@ Dallas Scott - Neetcode Solutions in C#
 116.  Interleaving String   	
 117.  [Longest Increasing Path In a Matrix](https://github.com/ds4015/neetcode/blob/main/longest_increasing_path_in_matrix.cs) (7/4/25)
 118.  Distinct Subsequences   	
-119.  Edit Distance   	
+119.  [Edit Distance](https://github.com/ds4015/neetcode/blob/main/edit_distance.cs) (7/17/25)  	
 120.  Burst Balloons   	
 121.  Regular Expression Matching   	
 ## Greedy
